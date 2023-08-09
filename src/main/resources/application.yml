@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: joe-demo-frontend-api-gateway
+server:
+  port: 8080
